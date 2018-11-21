@@ -1,0 +1,17 @@
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\bin\Debug\AssignmentCourse2Task5.exe.config
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\bin\Debug\AssignmentCourse2Task5.exe
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\bin\Debug\AssignmentCourse2Task5.pdb
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5.csprojResolveAssemblyReference.cache
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\App.g.cs
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5_MarkupCompile.cache
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5_MarkupCompile.lref
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5.g.resources
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5.Properties.Resources.resources
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5.csproj.GenerateResource.Cache
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5.csproj.CoreCompileInputs.cache
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5.exe
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\AssignmentCourse2Task5.pdb
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\ControlTowerWindow.g.cs
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\ControlTowerWindow.baml
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\FlightWindow.g.cs
+C:\Users\Sundberg\source\repos\AssignmentCourse2Task5\AssignmentCourse2Task5\obj\Debug\FlightWindow.baml

@@ -1,0 +1,17 @@
+﻿<Window x:Class="AssignmentCourse2Task5.FlightWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AssignmentCourse2Task5"
+        mc:Ignorable="d"
+        Title="FlightWindow" Height="330" Width="384">
+    <Grid>
+        <Label x:Name="lblFlight" Content="Flight:" HorizontalAlignment="Left" Margin="30,44,0,0" VerticalAlignment="Top" Width="209" FontFamily="Times New Roman" FontSize="18"/>
+        <Image x:Name="imgFlight" HorizontalAlignment="Left" Margin="80,74,0,71" Width="224"/>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="19,233,0,0" VerticalAlignment="Top" Width="75" FontFamily="Times New Roman" FontSize="18" Click="btnStart_Click"/>
+        <Button x:Name="btnLand" Content="Land" HorizontalAlignment="Left" Margin="271,233,0,0" VerticalAlignment="Top" Width="75" FontFamily="Times New Roman" FontSize="18" Click="btnLand_Click"/>
+        <ComboBox x:Name="lstHeadings" HorizontalAlignment="Left" Margin="110,234,0,0" VerticalAlignment="Top" Width="144" SelectionChanged="lstHeadings_SelectionChanged"/>
+
+    </Grid>
+</Window>
